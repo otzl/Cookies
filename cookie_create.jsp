@@ -22,7 +22,6 @@
 		
 		// 사용자에게 생성한 쿠키를 전달하기 위해서 addCookie() 활용
 		response.addCookie(cookie);
-	
 	%>
 </body>
 </html>
